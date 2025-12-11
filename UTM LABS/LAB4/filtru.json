@@ -1,0 +1,98 @@
+[
+    {
+        "Titlu": "To Kill a Mockingbird",
+        "Autor": "George Orwell",
+        "An": "1960",
+        "Gen": "Fiction"
+    },
+    {
+        "Titlu": "1984",
+        "Autor": "George Orwell",
+        "An": "1949",
+        "Gen": "Dystopian"
+    },
+    {
+        "Titlu": "The Great Gatsby",
+        "Autor": "F. Scott Fitzgerald",
+        "An": "1925",
+        "Gen": "Classic"
+    },
+    {
+        "Titlu": "The Catcher in the Rye",
+        "Autor": "J.D. Salinger",
+        "An": "1951",
+        "Gen": "Coming-of-age"
+    },
+    {
+        "Titlu": "The Hobbit",
+        "Autor": "J.R.R. Tolkien",
+        "An": "1937",
+        "Gen": "Fantasy"
+    },
+    {
+        "Titlu": "Fahrenheit 451",
+        "Autor": "Ray Bradbury",
+        "An": "1953",
+        "Gen": "Dystopian"
+    },
+    {
+        "Titlu": "The Lord of the Rings",
+        "Autor": "J.R.R. Tolkien",
+        "An": "1954",
+        "Gen": "Fantasy"
+    },
+    {
+        "Titlu": "Brave New World",
+        "Autor": "Aldous Huxley",
+        "An": "1932",
+        "Gen": "Science Fiction"
+    },
+    {
+        "Titlu": "Animal Farm",
+        "Autor": "George Orwell",
+        "An": "1945",
+        "Gen": "Political Satire"
+    },
+    {
+        "Titlu": "Letter to his Father",
+        "Autor": "Franz Kafka",
+        "An": "1919",
+        "Gen": "Non-fiction"
+    },
+    {
+        "Titlu": "The Stranger",
+        "Autor": "Albert Camus",
+        "An": "1942",
+        "Gen": "Philosophical"
+    },
+    {
+        "Titlu": "One Hundred Years of Solitude",
+        "Autor": "Gabriel García Márquez",
+        "An": "1967",
+        "Gen": "Magical Realism"
+    },
+    {
+        "Titlu": "The Alchemist",
+        "Autor": "Paulo Coelho",
+        "An": "1988",
+        "Gen": "Adventure"
+    },
+    {
+        "Titlu": "Lolita",
+        "Autor": "Vladimir Nabokov",
+        "An": "1955",
+        "Gen": "Psychological"
+    },
+    {
+        "Titlu": "The Metamorphosis",
+        "Autor": "Franz Kafka",
+        "An": "1915",
+        "Gen": "Absurdist"
+    },
+    {
+        "Titlu": "Ulysses",
+        "Autor": "James Joyce",
+        "An": "1922",
+        "Gen": "Modernist"
+    }
+]
